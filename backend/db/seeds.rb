@@ -4,22 +4,37 @@ MenuItem.create!([
   {
     name: "Seoul Chicken Sandwich",
     price: 14.00,
-    description: "Sweet, spicy, chicken sandwhich with gochujang sauce"
+    description: "Sweet, spicy, chicken sandwhich with gochujang sauce",
+    image_url: "/menu/seoul-chicken.jpg"
   },
   {
-    name: "spud-nik",
+    name: "Spud-nik",
     price: 8.00,
-    description: "Crispy twisty spud"
+    description: "Crispy twisty spud",
+    image_url: "/menu/spud-nik.jpg"
   },
   {
     name: "Mozza Meatball Spaghetti",
-    price: 11.50,
-    description: "Mozzarella stuffed turkey meatball over spaghettti"
+    price: 11.00,
+    description: "Mozzarella stuffed turkey meatball over spaghettti",
+    image_url: "/menu/cheese-stuffed-meatballs.jpg"
   },
   {
-    name: "Chopped Cheese",
+    name: "Shroom-cake Sammy",
+    price: 13.50,
+    description: "Mushroom cake sandwhich (vegan)",
+    image_url: "/menu/shroom-cake-sammy.jpg"
+  },{
+    name: "Mexican Tortilla Soupy",
+    price: 11.50,
+    description: "The best soup ever",
+    image_url: "/menu/mexican-tortilla-soup.jpg"
+  },
+  {
+    name: "Chopped Philly",
     price: 10.00,
-    description: "wit real cheese"
+    description: "Classy Philly cheasesteak wit real cheese",
+    image_url: "/menu/philly-cheesesteak.jpg"
   }
 ])
 
