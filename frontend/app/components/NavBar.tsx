@@ -5,7 +5,7 @@ export default function NavBar() {
     <header className="border-b">
       <nav className="mx-auto flex max-w-4xl items-center justify-between p-4">
         <Link href="/" className="text-lg font-bold">
-          Food Truck
+          Benny & the Jetts
         </Link>
 
         <div className="flex gap-4 text-sm">
